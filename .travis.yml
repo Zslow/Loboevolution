@@ -6,4 +6,5 @@ jdk:
 
 install: ant deps
 
+script: 
 ant test
